@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: aqua;
+}
+section{
+    background-color: brown;
+}
+#section2{
+    background-color: chartreuse;
+}
+#section3{
+    background-color: chocolate;
+}
+#section4{
+    background-color: cornflowerblue;
+}
+footer{
+    background-color: darkgreen;
+}
